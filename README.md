@@ -1,0 +1,2 @@
+# Latihan-Python
+masih pemula
